@@ -1,15 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - C program that prints an Exact String "Programming is like building a multilingual puzzle" usings puts
- *
- * no Use for Printf
+ * main - C program that prints ""Programming is like building a multilingual puzzle " with puts
  *
  * Return: Always 0 (Success)
  */
-
-
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
