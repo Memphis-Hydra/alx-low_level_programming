@@ -39,7 +39,7 @@
     * a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 
 15. Even Liber Abbaci
-a program that finds and prints the sum of the even-valued terms, followed by a new line.
+    * a program that finds and prints the sum of the even-valued terms, followed by a new line.
 
 16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+
-a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+    * a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
